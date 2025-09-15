@@ -1,6 +1,6 @@
 {
   "name": "daftlistings-ts",
-  "version": "2.0.5",
+  "version": "1.0.0",
   "description": "A TypeScript library that enables programmatic interaction with daft.ie. Daft.ie has nationwide coverage and contains about 80% of the total available properties in Ireland.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -19,16 +19,16 @@
     "ireland",
     "property"
   ],
-  "author": "Anthony Bloomer",
+  "author": "Callum Fiekert",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AnthonyBloomer/daftlistings"
+    "url": "https://github.com/cfiekert/daftlistings-ts"
   },
   "bugs": {
-    "url": "https://github.com/AnthonyBloomer/daftlistings/issues"
+    "url": "https://github.com/cfiekert/daftlistings-ts/issues"
   },
-  "homepage": "https://github.com/AnthonyBloomer/daftlistings#readme",
+  "homepage": "https://github.com/cfiekert/daftlistings-ts#readme",
   "dependencies": {
     "axios": "^1.6.0"
   },
